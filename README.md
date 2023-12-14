@@ -1,9 +1,9 @@
-### Hello World 👋 It's [Saket!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's [Nayrae!](https://nayrae.github.io/MyPortfolio/)
 
 <br/>
 
 
-<a href="https://twitter.com/sakigo_09">
+<a href="">
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/saket-prag-31b972157/">
