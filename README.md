@@ -1,3 +1,3 @@
-### Hello World 👋 It's [Nayrae!](https://nayrae.github.io/MyPortfolio/)
+### Hello World It's [Nayrae!](https://nayrae.github.io/MyPortfolio/)
 
 
